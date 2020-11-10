@@ -8,7 +8,7 @@ There are three flags found during the journey.
 
 $ docker run -d -p 9090:9090 quay.io/jechoisec/ctf-web-to-system-01
 
-Access http://<ip>:9090 with your browser.
+Access http://`<ip>`:9090 with your browser.
 
 ## How to build yourself and run
 
